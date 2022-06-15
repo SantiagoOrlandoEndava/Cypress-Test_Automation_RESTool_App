@@ -1,0 +1,22 @@
+{
+  "name": "cypress-test_automation_restool_app",
+  "version": "1.0.0",
+  "description": "Test automation for RESTool App Game of Thrones website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantiagoOrlandoEndava/Cypress-Test_Automation_RESTool_App.git"
+  },
+  "author": "Santiago Orlando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantiagoOrlandoEndava/Cypress-Test_Automation_RESTool_App/issues"
+  },
+  "homepage": "https://github.com/SantiagoOrlandoEndava/Cypress-Test_Automation_RESTool_App#readme",
+  "devDependencies": {
+    "cypress": "^10.1.0"
+  }
+}
